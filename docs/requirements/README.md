@@ -12,4 +12,4 @@ Requirements for the cassette faceplate of the OpenDAP T1.
 | FPC-006 | The cassette faceplate's status LED shall be controllable by developers, like the user LED on development boards. | must | Confirmed |
 | FPC-007 | The cassette faceplate will most likely use an OLED or AMOLED display, without touch. | should | Confirmed |
 | FPC-008 | Instead of touch, the cassette faceplate will most likely use physical controls: buttons, switches or dials. | should | Confirmed |
-| FPC-009 | The cassette faceplate's controls shall reach OpenDAP OS as standardized binary commands (see the faceplate interface in `t1`), not as raw signals. | must | Confirmed |
+| FPC-009 | The cassette faceplate's controls shall reach Blackbird OS as standardized binary commands (see the faceplate interface in `t1`), not as raw signals. | must | Confirmed |
